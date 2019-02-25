@@ -17,7 +17,7 @@ def shodanner_banner():
 
 #Configuration
 shodanner_banner()
-API_KEY = "YAFad1cTeqtWscFLAjZbqbmkw6VUPKOP"
+API_KEY = "<Your Shodan Key here>"
 # API_KEY = input("Enter your shodan API key: ")
 
 def basic_func(target_ip):
