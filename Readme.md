@@ -1,18 +1,4 @@
-The shodanner is host scanner based on the shodan API.
-
-Usage: 
-
- ____  _               _                             
-
-/ ___|| |__   ___   __| | __ _ _ __  _ __   ___ _ __ 
-
-\___ \| '_ \ / _ \ / _` |/ _` | '_ \| '_ \ / _ \ '__|
-
- ___) | | | | (_) | (_| | (_| | | | | | | |  __/ |   
-
-|____/|_| |_|\___/ \__,_|\__,_|_| |_|_| |_|\___|_|   
-
-                                                     
+The shodanner is host scanner based on the shodan API.                                             
 
                         
 
