@@ -10,10 +10,10 @@ from termcolor import colored
 
 def shodanner_banner():
     shodanner_tool_banner = pyfiglet.figlet_format("Shodanner")
-    scriptor = ""
+    scriptor = "Jauhar Ali"
     banner_space = "                      "
     print(shodanner_tool_banner)
-    print(banner_space,scriptor,"\n")
+    print(banner_space,scriptor,"@Jauharali\n")
 
 #Configuration
 shodanner_banner()
