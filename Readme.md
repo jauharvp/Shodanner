@@ -2,7 +2,7 @@ The shodanner is host scanner based on the shodan API.
 
                         
 
-usage: shodanner.py [-h] [-s SERVER] [-b BANNER] [-v VULNS] [-a ALL]
+Usage: shodanner.py [-h] [-s SERVER] [-b BANNER] [-v VULNS] [-a ALL]
 
 optional arguments:
     
