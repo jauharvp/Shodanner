@@ -18,3 +18,10 @@ optional arguments:
                         Fetch Vulnerabilities on the host
 
     -a ALL, --all ALL     Fecth all the Information
+
+
+Note : Make sure that your Shodan API Key has been added to the code under configuration.
+
+#Configuration
+shodanner_banner()
+API_KEY = "<Your Shodan Key here>"
