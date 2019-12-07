@@ -24,7 +24,7 @@ optional arguments:
 
 Example:- 
 
-   
+    #python3 shodanner.py -a <IP>
     #python3 shodanner.py -v 192.168.0.1
     
     
