@@ -21,6 +21,7 @@ optional arguments:
     
     ```
     #python3 shodanner.py -v 192.168.0.1
+    ```
 
 Note : Make sure that your Shodan API Key has been added to the code under configuration.
 ```
